@@ -24,26 +24,15 @@ Tech Stack
 
 
 
- Project Structure
 
-com.example.todoapp
-├── data
-│   ├── TaskItem.kt        # Entity
-│   ├── TaskDao.kt         # DAO
-│   └── TaskDatabase.kt    # Room Database
-├── viewmodel
-│   └── TaskViewModel.kt   # ViewModel
-├── ui
-│   ├── ToDoListScreen.kt  # Main screen
-│   └── ToDoItem.kt        # Single task card
-└── MainActivity.kt        # Entry point
+Project Structure
+- data: TaskItem.kt (Entity), TaskDao.kt (DAO), TaskDatabase.kt (Room DB)
+- viewmodel: TaskViewModel.kt (ViewModel)
+- ui: ToDoListScreen.kt (Main screen), ToDoItem.kt (Single task card)
+- MainActivity.kt (Entry point)
 
 
-
-
-
-└── MainActivity.kt        # Entry point
-
+[Download ToDoApp APK] = https://github.com/AskieeHarsh/ToDoApp/releases/download/v1.0.0/app-debug.apk
 
 
 
