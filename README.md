@@ -27,28 +27,16 @@ Tech Stack
  Project Structure
 
 com.example.todoapp
-│
 ├── data
 │   ├── TaskItem.kt        # Entity
 │   ├── TaskDao.kt         # DAO
 │   └── TaskDatabase.kt    # Room Database
-│
-
-
-
-
 ├── viewmodel
 │   └── TaskViewModel.kt   # ViewModel
-│
-
-
-
-
-
 ├── ui
 │   ├── ToDoListScreen.kt  # Main screen
 │   └── ToDoItem.kt        # Single task card
-│
+└── MainActivity.kt        # Entry point
 
 
 
