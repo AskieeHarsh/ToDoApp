@@ -32,7 +32,7 @@ Project Structure
 - MainActivity.kt (Entry point)
 
 
-[Download ToDoApp APK] = https://github.com/AskieeHarsh/ToDoApp/releases/download/v1.0.0/app-debug.apk
+[Download ToDoApp APK](https://github.com/AskieeHarsh/ToDoApp/releases/download/v1.0.0/app-debug.apk)
 
 
 
